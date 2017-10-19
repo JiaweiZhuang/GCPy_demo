@@ -3,18 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to GCPy_demo's documentation!
-=====================================
+Introduction to Python for GEOS-Chem
+====================================
+
+Author: Jiawei Zhuang (jiaweizhuang@g.harvard.edu)
+
+**Important Note**: This is a temporary website. We will eventually move everything to https://bitbucket.org/gcst/gcpy.
+Also see http://danielrothenberg.com/gcpy/.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   xarray_for_GC.ipynb
+   advanced_xarray.ipynb
+   jupyter_remote.ipynb
