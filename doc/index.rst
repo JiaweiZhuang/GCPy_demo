@@ -8,8 +8,7 @@ Introduction to Python for GEOS-Chem
 
 Author: Jiawei Zhuang (jiaweizhuang@g.harvard.edu)
 
-**Important Note**: This is a temporary website. We will eventually move everything to https://bitbucket.org/gcst/gcpy.
-Also see http://danielrothenberg.com/gcpy/.
+**Important Note**: We recommend the 2018 version of tutorial https://github.com/JiaweiZhuang/GEOSChem-python-tutorial. This old one (written in 2017) is just kept for record.
 
 .. toctree::
    :maxdepth: 2
